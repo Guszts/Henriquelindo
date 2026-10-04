@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#2563EB" />
+  <path d="M8 8h9a4 4 0 0 1 4 4 4 4 0 0 1-4 4H8V8zm0 8h10a4 4 0 0 1 4 4 4 4 0 0 1-4 4H8v-8z" fill="#FFFFFF" fill-opacity="0.3"/>
+  <text x="16" y="22" font-family="monospace" font-size="14" font-weight="900" text-anchor="middle" fill="#FFFFFF">BN</text>
+</svg>
